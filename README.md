@@ -46,13 +46,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Enlace**: [▶ Ver la lección](https://youtu.be/zoEc-7y3UUE)
 - **Conclusiones clave**: Aplica etiquetas semánticas (`<header>`, `<main>`, `<section>`, `<footer>`), añade estilos CSS organizados y depura errores visuales.
 - **Proyecto final**: [🖥 Crea tu Perfil en Replit](https://replit.com/) **¡Guarda y comparte tu trabajo!**
-- **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/starter-files/completed-examples/scripts/Leccion6 )
+- **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/Leccion6)
 
 ### Lección 7: Recomendaciones y errores comunes para principiantes (7 minutos)
 - **Descripción**: Conoce los errores más frecuentes que cometen los principiantes al programar, cómo depurar código de forma sencilla y recomendaciones para seguir aprendiendo.
 - **Enlace**: [▶ Ver la lección]( https://youtu.be/yCLJ0CxGGpM )
 - **Conclusiones clave**: Recuerda cerrar siempre las etiquetas, documentar con comentarios tu código y seguir intentadolo!
-- **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/starter-files/completed-examples/scripts/Leccion7 )
+- **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/Leccion7)
 
 ---
 
