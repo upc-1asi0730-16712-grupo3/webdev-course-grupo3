@@ -1,4 +1,4 @@
-# Fundamentos de Desarrollo Web
+# Fundamentos de Desarrollo Web con HTML y CSS
 
 ## Resumen del Curso
 
@@ -41,14 +41,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Conclusiones clave**: Entiende el modelo de caja (Box Model), cómo usar `margin: 0 auto`, `padding`, `border-radius` y centrar textos con `text-align: center`.
 - **Práctica**: [🖥 Practicar diseño editor que usase]( )
 
-### Lección 6: Creación de una página web básica (Perfil Personal) (15 minutos)
+### Lección 6: Creación de una página web básica (Perfil Personal) 
 - **Descripción**: Consolida todo lo aprendido combinando HTML y CSS para construir tu primer proyecto completo: una página de perfil personal o entrada de blog.
 - **Enlace**: [▶ Ver la lección](https://youtu.be/zoEc-7y3UUE)
 - **Conclusiones clave**: Aplica etiquetas semánticas (`<header>`, `<main>`, `<section>`, `<footer>`), añade estilos CSS organizados y depura errores visuales.
 - **Proyecto final**: [🖥 Crea tu Perfil en Replit](https://replit.com/) **¡Guarda y comparte tu trabajo!**
 - **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/Leccion6)
 
-### Lección 7: Recomendaciones y errores comunes para principiantes (7 minutos)
+### Lección 7: Recomendaciones y errores comunes para principiantes
 - **Descripción**: Conoce los errores más frecuentes que cometen los principiantes al programar, cómo depurar código de forma sencilla y recomendaciones para seguir aprendiendo.
 - **Enlace**: [▶ Ver la lección]( https://youtu.be/yCLJ0CxGGpM )
 - **Conclusiones clave**: Recuerda cerrar siempre las etiquetas, documentar con comentarios tu código y seguir intentadolo!
