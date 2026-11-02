@@ -1,0 +1,17 @@
+h1 {
+  color: #2563eb;
+}
+
+body {
+  background-color: #89ac76;
+  font-family: Arial;
+}
+
+p {
+  font-size: 18px;
+}
+
+.destacado {
+  color: #0f766e;
+  font-weight: bold;
+}
