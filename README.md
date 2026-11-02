@@ -16,11 +16,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1 y 2: Introducción al desarrollo web y Estructura HTML básica
 - **Descripción**: Aprende de qué están hechos los sitios web, por qué HTML y CSS son sus componentes fundamentales y explora la estructura interna mediante etiquetas, elementos y atributos básicos.
-- **Enlace**: [▶ Ver la lección]( )
+- **Enlace**: [▶ Ver la lección](https://youtu.be/MvML7szGxy8?si=bQhv8ZY6_-holaW6)
 - **Conclusiones clave**: Un sitio web combina Contenido (HTML) y Estilo (CSS). Las etiquetas organizan el texto y definen la jerarquía básica de una página.
-- **Práctica**: [🖥 Abrir en editor que usase]() 
-- **Código fuente**: [Ver en GitHub]( )
-
+- **Práctica**: [🖥 Abrir en editor que usase](https://codepen.io/editor/pen) 
+- **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/leccion%201)
 ### Lección 3: Elementos HTML comunes 
 - **Descripción**: Aprende a enriquecer el contenido de tu página agregando encabezados, párrafos, listas ordenadas y no ordenadas, imágenes y enlaces interactivos.
 - **Enlace**: [▶ Ver la lección]( )
@@ -85,7 +84,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Líder del equipo**: Integrante   
 - **Integrantes del equipo**:
   - Ivonne Beatriz Ibañez Torres
-  - Integrante 2
+  - Eddo Su Caletti
   - Integrante 3
   - Integrante 4
   - Integrante 5
