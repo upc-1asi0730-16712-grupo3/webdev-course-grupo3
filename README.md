@@ -22,10 +22,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/leccion%201)
 ### Lección 3: Elementos HTML comunes 
 - **Descripción**: Aprende a enriquecer el contenido de tu página agregando encabezados, párrafos, listas ordenadas y no ordenadas, imágenes y enlaces interactivos.
-- **Enlace**: [▶ Ver la lección]( )
+- **Enlace**: [▶ Ver la lección](https://youtu.be/u7yaO6TcsC4?si=ERxl60QaS51ttnjy)
 - **Conclusiones clave**: Se usan las etiquetas `<ul>`, `<ol>`, `<li>`, `<img>` (con su atributo `alt`) y `<a>` para conectar tu web con otros sitios.
-- **Práctica**: [🖥 Clic para programar editor que usase]( )
-- **Código fuente**: [Ver en GitHub]( )
+- **Práctica**: [🖥 Clic para programar editor que usase](https://codepen.io/editor/pen)
+- **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/Leccio%CC%81n%203)
 
 ### Lección 4: Introducción a CSS
 - **Descripción**: Descubre cómo darle personalidad y estilo a tu estructura HTML utilizando selectores y propiedades fundamentales como colores de fondo, fuentes y estilos de texto.
