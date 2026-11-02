@@ -29,10 +29,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 4: Introducción a CSS
 - **Descripción**: Descubre cómo darle personalidad y estilo a tu estructura HTML utilizando selectores y propiedades fundamentales como colores de fondo, fuentes y estilos de texto.
-- **Enlace**: [▶ Ver la lección]( )
+- **Enlace**: [▶ Ver la lección](https://youtu.be/3SpWvEtXmR0)
 - **Conclusiones clave**: Conecta archivos CSS a tu HTML. Utiliza selectores de etiquetas y clases, y aplica propiedades como `color`, `background-color` y `font-family`.
 - **Práctica**: [🖥 Aplicar estilo en editor que usase]()
-- **Código fuente**: [Ver en GitHub]( )
+- **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/Leccion4)
 
 ### Lección 5: Estilo simple y diseño 
 - **Descripción**: Ajusta el diseño visual de tus elementos aprendiendo a centrar contenido, agregar bordes decorativos y aplicar márgenes y rellenos.
