@@ -31,7 +31,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Descubre cómo darle personalidad y estilo a tu estructura HTML utilizando selectores y propiedades fundamentales como colores de fondo, fuentes y estilos de texto.
 - **Enlace**: [▶ Ver la lección](https://youtu.be/3SpWvEtXmR0)
 - **Conclusiones clave**: Conecta archivos CSS a tu HTML. Utiliza selectores de etiquetas y clases, y aplica propiedades como `color`, `background-color` y `font-family`.
-- **Práctica**: [🖥 Aplicar estilo en editor que usase]()
+- **Práctica**: [🖥 Aplicar estilo en editor que usase]([CodePen](https://codepen.io/editor/pen))
 - **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/Leccion4)
 
 ### Lección 5: Estilo simple y diseño 
@@ -44,7 +44,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Consolida todo lo aprendido combinando HTML y CSS para construir tu primer proyecto completo: una página de perfil personal o entrada de blog.
 - **Enlace**: [▶ Ver la lección](https://youtu.be/zoEc-7y3UUE)
 - **Conclusiones clave**: Aplica etiquetas semánticas (`<header>`, `<main>`, `<section>`, `<footer>`), añade estilos CSS organizados y depura errores visuales.
-- **Proyecto final**: [🖥 Crea tu Perfil en Replit](https://replit.com/) **¡Guarda y comparte tu trabajo!**
+- **Proyecto final**: [🖥 Crea tu Perfil en JS Fiddle](https://jsfiddle.net/) **¡Guarda y comparte tu trabajo!**
 - **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/Leccion6)
 
 ### Lección 7: Recomendaciones y errores comunes para principiantes
@@ -66,7 +66,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | **1 y 2** | Introducción a la Web y Estructura HTML | [CodePen](https://codepen.io/editor/pen) |
 | **3** | Elementos HTML (Listas, Imágenes, Enlaces) | [CodePen](https://codepen.io/editor/pen) |
 | **4** | Introducción a CSS (Colores y Fuentes) | [CodePen](https://codepen.io/editor/pen) |
-| **5** | Estilo simple, Bordes y Centrado |  |
+| **5** | Estilo simple, Bordes y Centrado | [CodePen](https://codepen.io/editor/pen) |
 | **6** | Proyecto Final: Página de Perfil Personal | [JSFiddle](https://jsfiddle.net/) |
 | **7** | Buenas prácticas | [JSFiddle](https://jsfiddle.net/) |
 
@@ -80,7 +80,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Curso**: 1ASI0730 Aplicaciones Web  
 **NRC**: 16712 
 
-- **Nombre del equipo**: UrbanGuard  
+- **Nombre del equipo**: Kings  
 - **Líder del equipo**: Eddo Su Caletti   
 - **Integrantes del equipo**:
   - Ivonne Beatriz Ibañez Torres
