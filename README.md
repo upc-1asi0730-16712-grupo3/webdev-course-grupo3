@@ -65,7 +65,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | :--- | :--- | :--- |
 | **1 y 2** | Introducción a la Web y Estructura HTML | [CodePen](https://codepen.io/editor/pen) |
 | **3** | Elementos HTML (Listas, Imágenes, Enlaces) | [CodePen](https://codepen.io/editor/pen) |
-| **4** | Introducción a CSS (Colores y Fuentes) |  |
+| **4** | Introducción a CSS (Colores y Fuentes) | [CodePen](https://codepen.io/editor/pen) |
 | **5** | Estilo simple, Bordes y Centrado |  |
 | **6** | Proyecto Final: Página de Perfil Personal | [JSFiddle](https://jsfiddle.net/) |
 | **7** | Buenas prácticas | [JSFiddle](https://jsfiddle.net/) |
