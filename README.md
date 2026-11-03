@@ -81,12 +81,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **NRC**: 16712 
 
 - **Nombre del equipo**: UrbanGuard  
-- **Líder del equipo**: Integrante   
+- **Líder del equipo**: Eddo Su Caletti   
 - **Integrantes del equipo**:
   - Ivonne Beatriz Ibañez Torres
   - Eddo Su Caletti
-  - Integrante 3
-  - Integrante 4
-  - Integrante 5
+  - Josué Antonio Flores Apaico
+  - Fabrizio Hamet Cano Ortiz
+  - Marlon Alessandro Flores Siguas
 
 **Fecha de entrega**: Semana 12
