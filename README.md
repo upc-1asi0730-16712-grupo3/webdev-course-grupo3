@@ -36,9 +36,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Estilo simple y diseño 
 - **Descripción**: Ajusta el diseño visual de tus elementos aprendiendo a centrar contenido, agregar bordes decorativos y aplicar márgenes y rellenos.
-- **Enlace**: [▶ Ver la lección]( )
+- **Enlace**: [▶ Ver la lección](https://youtu.be/6AN_p5vtsco)
 - **Conclusiones clave**: Entiende el modelo de caja (Box Model), cómo usar `margin: 0 auto`, `padding`, `border-radius` y centrar textos con `text-align: center`.
-- **Práctica**: [🖥 Practicar diseño editor que usase]( )
+- **Práctica**: [🖥 Practicar diseño editor que usase](https://codepen.io/editor/czmeyugz-the-builder/pen/01a189fd-187a-7bcf-914b-3fad45c5109c)
+- **Código fuente**: [Ver en GitHub](https://github.com/upc-1asi0730-16712-grupo3/webdev-course-grupo3/tree/main/starter-files/completed-examples/scripts/Leccion5)
 
 ### Lección 6: Creación de una página web básica (Perfil Personal) 
 - **Descripción**: Consolida todo lo aprendido combinando HTML y CSS para construir tu primer proyecto completo: una página de perfil personal o entrada de blog.

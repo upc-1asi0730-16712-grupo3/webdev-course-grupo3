@@ -1,0 +1,57 @@
+/* Lección 4: Estilo simple — versión completa */
+
+/* 1. Toda la página: fondo, tipografía y color de letra */
+body {
+  background-color: #e8f4fd;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+/* 2. La tarjeta: caja blanca, centrada y con borde */
+.tarjeta {
+  background-color: white;
+  max-width: 400px;           /* no crece más de 400px */
+  margin: 40px auto;          /* 40px arriba/abajo, "auto" a los lados = centrada */
+  padding: 24px;              /* espacio por DENTRO */
+  border: 3px solid #2563eb;  /* grosor + estilo + color */
+  border-radius: 16px;        /* esquinas redondeadas */
+}
+
+/* 3. La foto: redonda y centrada */
+.foto {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;         /* 50% = círculo */
+  display: block;             /* ocupa su propia línea... */
+  margin: 0 auto;             /* ...para poder centrarla */
+  border: 4px solid #e8710a;
+}
+
+/* 4. El título y la frase destacada: centrados */
+h1 {
+  color: #2563eb;
+  text-align: center;
+}
+
+.destacado {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* 5. El subtítulo con una línea debajo */
+h2 {
+  color: #e8710a;
+  border-bottom: 2px dashed #e8710a;
+  padding-bottom: 4px;
+}
+
+/* 6. El enlace con forma de botón */
+.boton {
+  display: block;
+  text-align: center;
+  background-color: #2563eb;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  text-decoration: none;      /* quita el subrayado */
+}
